@@ -4,10 +4,8 @@
 
 ### About the Student
 
-    Name: Swara Valsangikar
+    Name: Swara
     Date: 04/20/2026
-    University: University of North Carolina at Charlotte
-    Department: Mathematics
 
 #### Languages and Libraries
 
